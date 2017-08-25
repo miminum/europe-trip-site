@@ -1,0 +1,9 @@
+body { 
+    background: pink;
+    font-family: 'Open Sans', sans-serif; 
+}
+/*scale image to fit screen */
+img {
+    max-width: 100%;
+    height: auto;
+}
